@@ -25,21 +25,5 @@ while(sub not in s):
     sub=sub[2:]
 s=s.replace(sub,'::')
 # k=s.find(":0")
-# print(k)
-# sub='scdcsdcsd'
-# while(s[k:k+2]!=':0'):
-#     sub.format("%s%s",sub,':0')
-    # print(sub)
-    # print(s[k:k+2])
-    
-#     k=+2
-# s=s.replace(sub,"::")
-
-# if(":0:0:0:"in s  ):
-#     s=s.replace(":0:0:0:","::")
-# elif(":0:0:"in s):
-#     s=s.replace(":0:0:","::")
-# elif(":0:"in s):
-#     s=s.replace(":0:","::")
 print("Here is your IPv6 compressed: ")
 print(s)
