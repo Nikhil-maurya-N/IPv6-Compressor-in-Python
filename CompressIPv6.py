@@ -1,7 +1,7 @@
 # Here is a script of IPv6 Compression whose rules are assoiciated from https://www.ciscopress.com
 def validate(s):
     s=s.lower()
-    b=bool
+    b=bool()
     testvar=4
     hex='0123456789abcdef'
     if len(s)==32+7:
