@@ -151,4 +151,7 @@ fe80:0000:0000:0000:a299:9bff:fe18:50d1	fe80::a299:9bff:fe18:50d1
 2001:0db8:0000:0000:abcd:0000:0000:1234	2001:db8::abcd:0:0:1234
 2001:0db8:aaaa:0001:0000:0000:0000:0100	2001:db8:aaaa:1::100
 2001:0db8:aaaa:0001:0000:0000:0000:0200	2001:db8:aaaa:1::200
-Even after applying the two rules to compress the format, an IPv6 address can still look unwieldy. Don’t worry! Chapter 5, “Global Unicast Address,” shows a technique that I call the 3–1–4 rule. Using that rule makes IPv6 global unicast addresses (GUAs) easier to read than an IPv4 address and helps you recognize the parts of a GUA address. 
+
+
+********THis Article is authorised from CISCO' site You can also read:
+https://www.ciscopress.com/articles/article.asp?p=2803866#:~:text=One%20way%20to%20shorten%20IPv6,the%20address%20to%20be%20ambiguous.
